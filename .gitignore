@@ -1,0 +1,7 @@
+**/settings.local.json
+
+# research/ 외 전부 무시
+/*
+!/research/
+!/.gitignore
+
